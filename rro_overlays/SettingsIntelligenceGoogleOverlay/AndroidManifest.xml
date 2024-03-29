@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.android.settings.overlay.intelligence">
+    <application android:label="SettingsIntelligenceGoogleOverlay" android:hasCode="false"/>
+    <overlay android:targetPackage="com.google.android.as" android:isStatic="true" />
+</manifest>
