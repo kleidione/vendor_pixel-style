@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_gaia_suggestions_enabled_summary">Isso pode incluir sugerir ações, fornecer recomendações ou melhorar a experiência geral com base em seu nome, endereço residencial e histórico de pesquisa.</string>
+    <string name="setting_gaia_suggestions_enabled_title">Personalize a experiência usando os dados da sua Conta do Google</string>
+</resources>
